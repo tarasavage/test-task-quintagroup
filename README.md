@@ -38,6 +38,7 @@ Replace `your_api_key_here`, `your_project_id_here`, and `your_workspace_id_here
 
 ``pip install -r requirements.txt
 ``
+
 6. Run the script using the following command:
 
  ``
